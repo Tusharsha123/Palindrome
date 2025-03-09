@@ -3,7 +3,7 @@
 A simple **JavaScript** project that checks if a given word or phrase is a palindrome (reads the same forward and backward).  
 
 ## 🚀 Live Demo  
-🔗 [Check it Live]([https://tusharsha123.github.io/palindrome](https://tusharsha123.github.io/Palindrome/))  
+🔗 [Check it Live](https://tusharsha123.github.io/Palindrome/)  
 
 ## 🛠 Features  
 ✅ Removes spaces and special characters automatically  
